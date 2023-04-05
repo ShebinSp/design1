@@ -24,7 +24,7 @@ h3,h1,h6{
     width: 131.58px;
     height: 49.999px;
 }
-.products{
+.productmenu{
     margin-left: 110px;
     padding-top: 35px;
     font-size: 14px;
@@ -34,8 +34,12 @@ h3,h1,h6{
     color: white;
    line-gap-override: 1px;
    margin-right: 45px;
+   transition: 0.3s;
 }
-.szs{
+.productmenu:hover{
+    color: black;
+}
+.menu{
     padding-top: 35px;
     font-size: 14px;
     font-weight: 500;
@@ -44,26 +48,11 @@ h3,h1,h6{
     color: white;
    line-gap-override: 1px;
    margin-right: 45px;
+   transition: 0.3s;
 }
-.tc{
-    padding-top: 35px;
-    font-size: 14px;
-    font-weight: 500;
-    font-family: fantasy;
-    text-decoration: none;
-    color: white;
-   margin-right: 45px;
+.menu:hover{
+    color: black;
 }
-.bn{
-    padding-top: 35px;
-    font-size: 14px;
-    font-weight: 500;
-    font-family: fantasy;
-    text-decoration: none;
-    color: white;
-   margin-right: 500px;
-}
-
 .cap1{
     padding-top: 35px;
    height: 676.88px;
@@ -74,27 +63,21 @@ h3,h1,h6{
 .hdrsocial{
     display: flex;
     padding-top: 30px;
-    margin-left: 180px;
+    padding-left: 650px;
 }
-.ik2{
+.ikon{
     padding-left: 25px;
+    transition: 0.3s;
 }
-.ik3{
-    padding-left: 25px;
-}
-.ik4{
-    padding-left: 25px;
-}
-.ik5{
-    padding-left: 25px;
-}
-.ik6{
-    padding-left: 25px;
-    
+.ikon:hover{
+    color: black;
 }
 .ik7{
     width: 27px;
-    
+    transition: 0.3s; 
+}
+.ik7:hover{
+    color: black;
 }
 .shalf{
     
@@ -135,6 +118,9 @@ h3,h1,h6{
     border: none;
     font-size: 15px;
     font-weight: 1000;
+}
+.emore:hover{
+    background-color: black;
 }
 .cap2{
     display: flex;
