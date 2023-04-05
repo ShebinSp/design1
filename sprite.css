@@ -1,0 +1,254 @@
+@font-face {
+    font-family: AktivGrotesk Bold;
+    src: url(AktivGroteskBold.ttf) format('truetype');
+}
+
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+h3,h1,h6{
+    margin: 0%;
+}
+
+.header{
+    display: flex;
+    background-color: rgb(0, 155, 78);
+    height: 90px;
+    width: 100%;
+}
+#logo1{
+    padding-left: 42px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    width: 131.58px;
+    height: 49.999px;
+}
+.products{
+    margin-left: 110px;
+    padding-top: 35px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+   line-gap-override: 1px;
+   margin-right: 45px;
+}
+.szs{
+    padding-top: 35px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+   line-gap-override: 1px;
+   margin-right: 45px;
+}
+.tc{
+    padding-top: 35px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+   margin-right: 45px;
+}
+.bn{
+    padding-top: 35px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: fantasy;
+    text-decoration: none;
+    color: white;
+   margin-right: 500px;
+}
+
+.cap1{
+    padding-top: 35px;
+   height: 676.88px;
+   width: 100%;
+   background-color: black;
+   margin-right: 0%;
+}
+.hdrsocial{
+    display: flex;
+    padding-top: 30px;
+    margin-left: 180px;
+}
+.ik2{
+    padding-left: 25px;
+}
+.ik3{
+    padding-left: 25px;
+}
+.ik4{
+    padding-left: 25px;
+}
+.ik5{
+    padding-left: 25px;
+}
+.ik6{
+    padding-left: 25px;
+    
+}
+.ik7{
+    width: 27px;
+    
+}
+.shalf{
+    
+    float: right;
+    height: 676.88px;
+    width: 61%;
+    background-color: rgb(0, 0, 0);
+}
+#img1{
+    width: 667px;
+}
+#text1{
+    margin-top: 5%;
+    margin-bottom: 0%;
+    font-size: 93px;
+    color: rgb(0,167,74);
+    line-height: 88px;
+    float: top;
+    font-weight: 400;
+    font-style: normal;
+    font-family: fantasy;
+    
+}
+.headlineimg2{
+    margin-top: 13px;
+    padding-top: 0%;
+    width: 700px;
+}
+.emore{
+    margin-top: 33px;
+    margin-right: 600px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:rgb(0,167,74) ;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: 1000;
+}
+.cap2{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    margin: 0%;
+}
+
+.yvid{
+    margin-left: 158px;
+    padding-top: 56px;
+   
+}
+.text2{
+    width: 785.52;
+    height: 63.99;
+    font-size: 30.0px;
+    line-height: 1.0em;
+    color: black;
+    font-family: fantasy;
+    line-height: 40px;
+    padding-left: 70px;
+    padding-top: 24.9px;
+}
+.shopn{
+    background-color: #FFD100;
+    border: none;
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 30px;
+    font-size: 12px;
+    font-weight: 1000;
+}
+.cap3{
+    display: flex;
+    height: auto;
+    margin-top: 0;
+    width: 100%;
+}
+.text3{
+    margin-top: 70px;
+    margin-left: 150px;
+    font-size: 30px;
+    color: rgb(0,167,74);
+    line-height: 80px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: fantasy;
+}
+.img3{
+    margin: 0%;
+    padding-left: 280px;
+    height: 438px;
+}
+.footer{
+    display: flex;
+    height: 350px;
+    width: 100%;
+    background-color: rgb(0, 155, 78);
+}
+.f1{
+    width: 600px;
+    height: 350px;
+}
+.logo2{
+    width: 207.11px;
+    height: 78.68px;
+    padding-left: 255px;
+    padding-top: 100px;
+}
+.f2{
+    width: 550px;
+    height: 350px;
+}
+.f3{
+   
+    width: 550px;
+    height: 350px;
+    font-family: fantasy;
+    padding-top: 35px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+.connect{
+    font-family: fantasy;
+    padding-top: 35px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: lighter;
+
+}
+.text4{
+    padding-left: 15px;
+}
+.cikons{
+    padding-top: 25px;
+}
+.f4{
+    height: 100px;
+    background-color: rgb(0, 155, 78);
+    color: white;
+}
+.text5{
+    padding-left: 750px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text6{
+    padding-top: 27px;
+    padding-left: 450px;
+    font-family: fantasy;
+}
